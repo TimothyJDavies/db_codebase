@@ -13,5 +13,13 @@ Note each notebook also references back to the db used (which was formatted in a
 So will need the db_preparation folder
 Note as designed the file structure should give appropriate paths for things, i.e. if you download this entire repository and extract the code should be runnable
 
+### Sequencing file locations
+- PRJNA779173 , https://www.ncbi.nlm.nih.gov/bioproject/PRJNA779173 , Samples uploaded for the purpose of this study (PHE, resistance mechanisms of note)
+- PRJNA604975 , https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA604975, 8 additional oxfordshire samples uploaded 
+- PRJNA540750 , https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA540750, Samples uploaded for https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7269502/ (Oxfordshire)
+- PRJEB26317 ,  https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJEB26317, Samples uploaded for https://pubmed.ncbi.nlm.nih.gov/34122397/
+(APHA samples)
 
+Please see additional spreadsheed for each item location
 
+### original files from simulations available on request
